@@ -26,7 +26,7 @@ They include:
 Zawieraj±:
 - Linuksowe slogany i krótkie cytaty.
 - Cytaty Linusa Tovaldsa i innych.
-- Dowcipy o Microsofcie, opowiadania i i krótkie cytaty.
+- Dowcipy o Microsofcie, opowiadania i krótkie cytaty.
 - Skondensowane artyku³y Humorixa.
 
 
