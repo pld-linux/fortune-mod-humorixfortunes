@@ -1,9 +1,5 @@
-# TODO:
-# Check: %description -l pl
-#   - what does it mean: one-liners
-
 Summary:	Collection of Humorix Fortunes
-Summary(pl):	Kolekcja fortunek z Humorixa
+Summary(pl):	Kolekcja fortunek z Humoriksa
 Name:		fortune-mod-humorixfortunes
 Version:	1.4
 Release:	1
@@ -24,11 +20,10 @@ They include:
 
 %description -l pl
 Zawieraj±:
-- Linuksowe slogany i krótkie cytaty.
-- Cytaty Linusa Tovaldsa i innych.
-- Dowcipy o Microsofcie, opowiadania i krótkie cytaty.
-- Skondensowane artyku³y Humorixa.
-
+- Linuksowe slogany i jednolinijkowe cytaty.
+- Cytaty z Linusa Tovaldsa i innych.
+- Krótkie dowcipy, opowiadania i jednolinijkowe cytaty o Microsofcie.
+- Skondensowane artyku³y Humoriksa.
 
 %prep
 %setup -q -n humorixfortunes-%{version}
