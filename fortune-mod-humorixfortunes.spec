@@ -1,5 +1,5 @@
 Summary:	Collection of Humorix Fortunes
-Summary(pl):	Kolekcja fortunek z Humoriksa
+Summary(pl.UTF-8):   Kolekcja fortunek z Humoriksa
 Name:		fortune-mod-humorixfortunes
 Version:	1.4
 Release:	1
@@ -18,12 +18,12 @@ They include:
 - Brief Microsoft jokes, stories, and one-liners.
 - Condensed Humorix articles.
 
-%description -l pl
-Zawieraj±:
+%description -l pl.UTF-8
+ZawierajÄ…:
 - Linuksowe slogany i jednolinijkowe cytaty.
 - Cytaty z Linusa Tovaldsa i innych.
-- Krótkie dowcipy, opowiadania i jednolinijkowe cytaty o Microsofcie.
-- Skondensowane artyku³y Humoriksa.
+- KrÃ³tkie dowcipy, opowiadania i jednolinijkowe cytaty o Microsofcie.
+- Skondensowane artykuÅ‚y Humoriksa.
 
 %prep
 %setup -q -n humorixfortunes-%{version}
