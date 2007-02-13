@@ -1,5 +1,5 @@
 Summary:	Collection of Humorix Fortunes
-Summary(pl.UTF-8):   Kolekcja fortunek z Humoriksa
+Summary(pl.UTF-8):	Kolekcja fortunek z Humoriksa
 Name:		fortune-mod-humorixfortunes
 Version:	1.4
 Release:	1
