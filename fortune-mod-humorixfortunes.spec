@@ -9,10 +9,11 @@ Source0:	http://humorix.org/downloads/humorixfortunes-%{version}.tar.gz
 # Source0-md5:	a0f5eb298aa5982aa54571f6e46aa58b
 URL:		http://humorix.org/downloads/#Fortunes
 Requires:	fortune-mod
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-They include: 
+They include:
 - Linux slogans and one-liners.
 - Quotes froms Linus Torvalds and others.
 - Brief Microsoft jokes, stories, and one-liners.
